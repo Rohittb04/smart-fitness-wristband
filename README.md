@@ -24,7 +24,7 @@ Patent Filed: Smart Fitness Wristband For Real-Time Health Monitoring (Patent No
 ESP32-S3 → Sensor Data → TinyML Model → BLE → Android App → Dashboard
 
 <p align="center">
-  <img src="images/architecture.jpg" width="450" height = "600"/>
+  <img src="images/architecture.jpg" width="550" height = "700"/>
 </p>
 <p align="center">
   <em>System Architecture</em>
