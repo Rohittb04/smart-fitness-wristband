@@ -81,10 +81,7 @@ ESP32-S3 → Sensor Data → TinyML Model → BLE → Android App → Dashboard
   <em>Real Fitness Band (Left) | Android App (Right)</em>
 </p>
 
-<video width="400" controls>
-  <source src="images/Bfit_band.MOV.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch Demo](images/thumbnail.jpg)](images/Bfit_band.MOV.mp4)
 
 ---
 
