@@ -25,10 +25,9 @@ ESP32-S3 → Sensor Data → TinyML Model → BLE → Android App → Dashboard
 
 <p align="center">
   <img src="images/architecture.jpg" width="350"/>
-  <img src="images/device-cad-design.jpg" width="350"/>
 </p>
 <p align="center">
-  <em>System Architecture (Left) | Device CAD Design (Right)</em>
+  <em>System Architecture</em>
 </p>
 ---
 
