@@ -82,7 +82,7 @@ Published: **April 2025**
 </p>
 
 <p align="center">
-  <a href="docs/images/patent.pdf">🔗 View Full Certificate</a>
+  <a href="docs/patent.pdf">🔗 View Full Certificate</a>
 </p>
 
 ---
